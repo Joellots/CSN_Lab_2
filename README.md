@@ -1,7 +1,7 @@
 # CSN_Lab_2
 ## PART B [Team Work]
 ### Done by:
-### Etienne Fuh, Aram Burlakov, Julio, Okore Joel
+### Etienne Fuh, Aram Burlakov, Padonou Julio, Okore Joel
 
 ## Task 3:
 3.1.
