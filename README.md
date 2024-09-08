@@ -105,7 +105,7 @@ The package diagram represents how the system is organized into different module
 Picture 5 - Package Diagram
 
 #### Deployment Diagram 
-The deployment diagram focuses on how the software components of the system are deployed on the physical hardware and the communication links between them.
+The deployment diagram focuses on how the software components of the system are deployed on the physical hardware and the communication links between them. See picture 6.
 
 ![Deployment_Diagram](https://github.com/user-attachments/assets/908e816e-ab93-45e5-91d2-eb9178540824)
 Picture 6 - Deployment Diagram
