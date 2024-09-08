@@ -19,5 +19,21 @@
       5. Reliability: Implementing component redundancy and logging/monitoring, both in local and cloud infrastructure, enhance fault tolerance and failure detection.
       6. Maintainability: Modularity of subsystems within the choosen layered architecture ensure that each module can be individually analyzed, modified and tested without affect entire system operations
    
-  3.2. Component Mapping
+3.2. Component Mapping
+  - Below is a mapping of the components that make up the system (within the context of a layered architecture). See Picture 1. 
     
+![Is3_Architecture_main](https://github.com/user-attachments/assets/e90e5c35-a937-4478-b685-439dd14e7128)
+Picture 1 - Component Mapping
+
+3.3. Technology Stack
+  - IoT Device Communication: MQTT (EMQX or Mosquitto), HTTP(S), WebSocket
+  - Data Ingestion: Apache Kafka
+  - Data Processing: Apache NiFi
+  - Stream Processing: Apache Flink
+  - Queries Engine: Elasticsearch
+  - Time-Series Database: InfluxDB
+  - NoSQL Database: MongoDB
+  - Backend API: Node.js
+  - Frontend: React.js
+  - Authentication & Security: OAuth 2.0, JWT, Keycloak
+  - Monitoring & Logging: Prometheus, Grafana, ELK Stack (Elasticsearch, Logstash, Kibana), Alertmanager
